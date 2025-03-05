@@ -2,9 +2,16 @@
 
 ### Hi there 👋
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 <h2> 🚀 &nbsp;Skills</h2>
 <p align="left">
-[![Java](https://skillicons.dev/icons?i=java)](Java)
+
+[![Main skills](https://skillicons.dev/icons?i=java,swift,kotlin,c,cpp,androidstudio,vim,git)](https://skillicons.dev)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" title="C" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="45" height="45" />
