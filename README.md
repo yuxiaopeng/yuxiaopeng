@@ -17,6 +17,7 @@
 <img src="assets/Flutter-Dark.svg" alt="flutter" title="Flutter" width="45" height="45"/>
 <img src="assets/Dart-Dark.svg" alt="dart" title="Dart" width="45" height="45"/>    
 <img src="assets/Rust.svg" alt="rust" title="Rust" width="45" height="45"/>
+<img src="assets/Xcode.png" alt="Xcode" title="Xcode" width="45" height="45"/>
 <img src="assets/AndroidStudio-Dark.svg" alt="androidstudio" title="Android Studio" width="45" height="45"/>
 <img src="assets/Cursor.png" alt="Cursor" title="Cursor" width="45" height="45"/>
 <img src="assets/Git.svg" alt="git" title="Git" width="45" height="45"/>
