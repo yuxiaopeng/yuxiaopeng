@@ -10,9 +10,10 @@
 <h2> 🚀 &nbsp;Skills</h2>
 <p align="left">
 <img src="assets/Java-Dark.svg" alt="java" title="Java" width="45" height="45"/>
+<img src="assets/Objective-C.webp" alt="Objective-C" title="Objective-C" width="45" height="50"/>
+<img src="assets/Swift.svg" alt="swift" title="Swift" width="45" height="45"/>
 <img src="assets/C.svg" alt="c" title="C" width="45" height="45"/> 
 <img src="assets/CPP.svg" alt="cpp" title="C++" width="45" height="45"/>
-<img src="assets/Swift.svg" alt="swift" title="Swift" width="45" height="45"/>
 <img src="assets/Kotlin-Dark.svg" alt="kotlin" title="Kotlin" width="45" height="45"/>
 <img src="assets/Flutter-Dark.svg" alt="flutter" title="Flutter" width="45" height="45"/>
 <img src="assets/Dart-Dark.svg" alt="dart" title="Dart" width="45" height="45"/>    
