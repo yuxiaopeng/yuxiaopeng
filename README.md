@@ -20,7 +20,7 @@
     <img src="assets/Rust.svg" alt="Rust" title="Rust" width="45" height="45"/>
     <img src="assets/Lisp.png" alt="Lisp" title="Lisp" width="45" height="45"/>
     <img src="assets/Markdown-Dark.svg" alt="Markdown" title="Markdown" width="45" height="45"/>
-<h2> 🚀 &nbsp;Tools</h2>
+<h2> 🛠️ &nbsp;Tools</h2>
 <p align="left">
     <img src="assets/Xcode.png" alt="Xcode" title="Xcode" width="45" height="45"/>
     <img src="assets/AndroidStudio-Dark.svg" alt="Android Studio" title="Android Studio" width="45" height="45"/>
