@@ -1,9 +1,12 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuxiaopeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
 <h1>
     Hi there  
     <img src="assets/wave.webp" width="30px"/>
 </h1>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuxiaopeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
+<br/>
 
 <br/>
 <br/>
