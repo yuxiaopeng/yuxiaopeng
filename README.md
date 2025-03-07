@@ -26,7 +26,7 @@
 <img src="assets/VSCode-Dark.svg" alt="vscode" title="VSCode" width="45" height="45"/>
 <img src="assets/Cursor.png" alt="Cursor" title="Cursor" width="45" height="45"/>
 <img src="assets/Eclipse-Dark.svg" alt="eclipse" title="Eclipse" width="45" height="45"/>
-<img src="assets/idea-Dark.svg" alt="intellij" title="IntelliJ IDEA" width="45" height="45"/>
+<img src="assets/Idea-Dark.svg" alt="intellij" title="IntelliJ IDEA" width="45" height="45"/>
 <img src="assets/Git.svg" alt="git" title="Git" width="45" height="45"/>
 <img src="assets/VIM-Dark.svg" alt="vim" title="Vim" width="45" height="45"/>
 <img src="assets/Sublime-Dark.svg" alt="Sublime" title="Sublime" width="45" height="45"/>
