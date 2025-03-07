@@ -9,26 +9,26 @@
 
 <h2> 🚀 &nbsp;Skills</h2>
 <p align="left">
-<img src="assets/Java-Dark.svg" alt="java" title="Java" width="45" height="45"/>
+<img src="assets/Java-Dark.svg" alt="Java" title="Java" width="45" height="45"/>
 <img src="assets/Objective-C.webp" alt="Objective-C" title="Objective-C" width="45" height="50"/>
-<img src="assets/Swift.svg" alt="swift" title="Swift" width="45" height="45"/>
-<img src="assets/C.svg" alt="c" title="C" width="45" height="45"/> 
-<img src="assets/CPP.svg" alt="cpp" title="C++" width="45" height="45"/>
-<img src="assets/Kotlin-Dark.svg" alt="kotlin" title="Kotlin" width="45" height="45"/>
-<img src="assets/Flutter-Dark.svg" alt="flutter" title="Flutter" width="45" height="45"/>
-<img src="assets/Dart-Dark.svg" alt="dart" title="Dart" width="45" height="45"/>    
-<img src="assets/Rust.svg" alt="rust" title="Rust" width="45" height="45"/>
+<img src="assets/Swift.svg" alt="Swift" title="Swift" width="45" height="45"/>
+<img src="assets/C.svg" alt="C" title="C" width="45" height="45"/> 
+<img src="assets/CPP.svg" alt="C++" title="C++" width="45" height="45"/>
+<img src="assets/Kotlin-Dark.svg" alt="Kotlin" title="Kotlin" width="45" height="45"/>
+<img src="assets/Flutter-Dark.svg" alt="Flutter" title="Flutter" width="45" height="45"/>
+<img src="assets/Dart-Dark.svg" alt="Dart" title="Dart" width="45" height="45"/>    
+<img src="assets/Rust.svg" alt="Rust" title="Rust" width="45" height="45"/>
 <img src="assets/Lisp.png" alt="Lisp" title="Lisp" width="45" height="45"/>
-<img src="assets/Markdown-Dark.svg" alt="Erlang" title="Erlang" width="45" height="45"/>
+<img src="assets/Markdown-Dark.svg" alt="Markdown" title="Markdown" width="45" height="45"/>
 <h2> 🚀 &nbsp;Tools</h2>
 <p align="left">
 <img src="assets/Xcode.png" alt="Xcode" title="Xcode" width="45" height="45"/>
-<img src="assets/AndroidStudio-Dark.svg" alt="androidstudio" title="Android Studio" width="45" height="45"/>
-<img src="assets/VSCode-Dark.svg" alt="vscode" title="VSCode" width="45" height="45"/>
+<img src="assets/AndroidStudio-Dark.svg" alt="Android Studio" title="Android Studio" width="45" height="45"/>
+<img src="assets/VSCode-Dark.svg" alt="VSCode" title="VSCode" width="45" height="45"/>
 <img src="assets/Cursor.png" alt="Cursor" title="Cursor" width="45" height="45"/>
-<img src="assets/Eclipse-Dark.svg" alt="eclipse" title="Eclipse" width="45" height="45"/>
-<img src="assets/Idea-Dark.svg" alt="intellij" title="IntelliJ IDEA" width="45" height="45"/>
-<img src="assets/Git.svg" alt="git" title="Git" width="45" height="45"/>
-<img src="assets/VIM-Dark.svg" alt="vim" title="Vim" width="45" height="45"/>
+<img src="assets/Eclipse-Dark.svg" alt="Eclipse" title="Eclipse" width="45" height="45"/>
+<img src="assets/Idea-Dark.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="45" height="45"/>
+<img src="assets/Git.svg" alt="Git" title="Git" width="45" height="45"/>
+<img src="assets/VIM-Dark.svg" alt="Vim" title="Vim" width="45" height="45"/>
 <img src="assets/Sublime-Dark.svg" alt="Sublime" title="Sublime" width="45" height="45"/>
 </p>
