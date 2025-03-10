@@ -1,18 +1,16 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
+</p>
 <h1>
     Hi there  
     <img src="assets/wave.webp" width="30px"/>
 </h1>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuxiaopeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-
-<br/>
-
 <br/>
 <br/>
 <br/>
 <br/>
-
+<br/>
 <h2> 🚀 &nbsp;Skills</h2>
     <p align="left">
     <img src="assets/Java-Dark.svg" alt="Java" title="Java" width="45" height="45"/>
